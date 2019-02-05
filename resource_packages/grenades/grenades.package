@@ -1,0 +1,11 @@
+mod = [
+	"grenades"
+]
+
+package = [
+	"resource_packages/grenades/grenades"
+]
+
+lua = [
+	"scripts/mods/grenades/*"
+]
